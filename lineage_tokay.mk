@@ -29,6 +29,8 @@ AXION_CAMERA_REAR_INFO := 50,48
 AXION_CAMERA_FRONT_INFO := 10.5
 AXION_MAINTAINER := rmp
 
+TARGET_INCLUDE_VIPERFX := true
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="tokay-user 15 AP4A.250205.002 12821496 release-keys" \
     BuildFingerprint=google/tokay/tokay:15/AP4A.250205.002/12821496:user/release-keys \
